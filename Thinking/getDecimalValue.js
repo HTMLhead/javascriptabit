@@ -26,4 +26,5 @@ var getDecimalValue = function(head) {
 첫 번째 결과값에 2를 곱하고 현재 이진수의 숫자를 더해주는 공식이 나온다.
 
 이것을 코드로 나타내면 위와 같다.
+이해한 곳 [https://www.electronics-tutorials.ws/binary/bin_2.html]
 */
