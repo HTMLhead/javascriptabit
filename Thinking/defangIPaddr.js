@@ -13,3 +13,7 @@ var defangIPaddr = function(address) {
   }
   return str;
 };
+
+var defangIpAddr = function(address) {
+  return address.split(".").join("[.]");
+};
